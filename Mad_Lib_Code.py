@@ -1,5 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
 print("Hello there!")
 answer = input("Shall we play a game? ")
 
